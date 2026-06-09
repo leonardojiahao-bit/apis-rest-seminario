@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Banco de dados
+*.sqlite3
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Migrações (opcional — remova essas linhas se quiser versionar as migrations)
+# */migrations/
